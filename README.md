@@ -1,2 +1,2 @@
-# Streamlit-test-
+# Streamlit-test
 A simple app to test streamlit.
